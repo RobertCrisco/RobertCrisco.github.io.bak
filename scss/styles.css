@@ -51,9 +51,13 @@ button, .button {
   height: 2px;
   background-color: black;
 }
-.header__menu > span:not(:last-child) {
+
+/* .header__menu > span:not(:last-child) {
   margin-bottom: 3px;
-}
+} */
+
 .headerlinks a {
   font-size: 14px;
-}/*# sourceMappingURL=styles.css.map */
+}
+
+/*# sourceMappingURL=styles.css.map */
