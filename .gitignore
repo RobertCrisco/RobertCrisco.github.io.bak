@@ -7,3 +7,4 @@ scss/styles.scss
 *.scss
 scss/styles.css.map
 scss/_globals.scss
+scss/_header.scss
