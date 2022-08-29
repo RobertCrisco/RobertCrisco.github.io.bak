@@ -133,5 +133,19 @@ button, .button {
     font-weight: 600;
     color: #fff;
   }
+
+.tab-titles {
+  display: flex;
+  margin: 20px 0 40px;
+  }
+
+.tab-links{
+  margin-right: 50p;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  position: relative;
+  
+}
     
 }/*# sourceMappingURL=styles.css.map */
