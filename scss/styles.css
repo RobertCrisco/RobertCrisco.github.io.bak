@@ -72,7 +72,7 @@ button, .button {
 }
 .header__links a:hover {
   color: rgb(80, 5, 5);
- 
+}
  .header__links a::after{
    content: '';
    width: 100%;
