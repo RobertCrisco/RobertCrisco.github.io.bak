@@ -47,6 +47,10 @@ button, .button {
 
 .header nav {
   padding: 24px;
+  height:  100vh;
+  background-image url(images/background.jpg);
+  background-size: cover;
+  background-position: center;
 }
 .header__menu > span {
   display: block;
