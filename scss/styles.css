@@ -118,5 +118,11 @@ button, .button {
   .about-col-2 {
     flex-basis: 60%;
   }
+  
+  .sub-title{
+    font-size: 60px;
+    font-weight: 600;
+    color: #fff;
+  }
     
 }/*# sourceMappingURL=styles.css.map */
