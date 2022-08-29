@@ -61,7 +61,8 @@ button, .button {
   margin-bottom: 3px;
 }
 .header__links a {
-  font-size: 14px;
+  font-size: 18px;
+  text-decoration: none;
   color: #ffffff;
   font-weight: 400;
   transition: color 200ms ease-in-out;
