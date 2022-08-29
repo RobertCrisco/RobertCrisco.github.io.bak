@@ -72,7 +72,7 @@ button, .button {
 }
 .header__links a:hover {
   color: rgb(80, 5, 5);
-  
+} 
  .header__links a::after{
    content: '';
    width: 100%;
@@ -99,5 +99,11 @@ button, .button {
     padding: 80px 0;
     color: #ababab;
 }
+  
+.row{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  }
     
 }/*# sourceMappingURL=styles.css.map */
