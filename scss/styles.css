@@ -57,7 +57,7 @@ button, .button {
 }
 .header__links a {
   font-size: 14px;
-  color: rgb(255, 54, 8);
+  color: white;
   font-weight: 400;
   transition: color 200ms ease-in-out;
 }
